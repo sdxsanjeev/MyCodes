@@ -81,4 +81,6 @@ int main() {
 	}
 }
 	return 0;
+     int san=0;
+
 }
